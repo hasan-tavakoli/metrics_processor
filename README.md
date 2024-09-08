@@ -45,8 +45,3 @@ The project is designed to read and parse JSON data from input files, transform 
 
 - The project outputs metrics for different dimensions and suggests the top 5 advertiser IDs for each app-country pair.
 
-## Getting Started
-
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/yourusername/ad-metrics-processor.git
